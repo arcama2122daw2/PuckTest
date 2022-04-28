@@ -107,6 +107,10 @@ a:hover {
   font-size: 14px;
   font-weight: 600; }
 
+.btn-lg{
+  margin-left: 35%;
+}
+
 .btn-primary {
   display: inline-block;
   background-color: #f34949;
@@ -490,13 +494,13 @@ a:hover {
   .footer-widget {
     margin-bottom: 30px; }
   .hero-left {
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 30px; } }
 
 @media (max-width: 767px) {
   .hero-left,
   .hero-carousel .owl-item img {
-    height: 600px; }
+    height: 420px; }
   .thumb-menu img {
     height: 90px; }
   .img-2 {
